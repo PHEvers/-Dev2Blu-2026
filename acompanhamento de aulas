@@ -1,1 +1,10 @@
 Bloco de anotações para aulas
+
+Aula 25/06 
+ls
+cd
+mkdir
+touch -- Criar arquivos
+Cat -- "Abrir" arquivo
+Echo > sobrescreve
+Echo >> adiciona
