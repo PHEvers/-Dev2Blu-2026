@@ -8,3 +8,9 @@ touch -- Criar arquivos
 Cat -- "Abrir" arquivo
 Echo > sobrescreve
 Echo >> adiciona
+
+aula 29/06
+
+  -i -c -n
+find . name "*.PY"
+
